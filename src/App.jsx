@@ -7,6 +7,7 @@ const heroMedia = [
   { type: "video", url: "https://www.w3schools.com/howto/rain.mp4", label: "Calm Rain In The Deep Green Forest", thumb: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600&auto=format&fit=crop" },
   { type: "video", url: "https://assets.mixkit.co/videos/preview/mixkit-waterfall-in-forest-2213-large.mp4", label: "Amazing Waterfall Hidden In Wild Nature", thumb: "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=600&auto=format&fit=crop" },
   { type: "video", url: "https://assets.mixkit.co/videos/preview/mixkit-river-surrounded-by-forests-and-mountains-41712-large.mp4", label: "Majestic Mountains & Fast River Stream", thumb: "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=600&auto=format&fit=crop" },
+  { type: "video", url: "https://assets.mixkit.co/videos/preview/mixkit-aerial-view-of-a-winding-road-in-the-mountains-41617-large.mp4", label: "Winding Road Across The Green Valley", thumb: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=600&auto=format&fit=crop" },
   { type: "video", url: "https://assets.mixkit.co/videos/preview/mixkit-aerial-view-of-a-winding-road-in-the-mountains-41617-large.mp4", label: "Winding Road Across The Green Valley", thumb: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=600&auto=format&fit=crop" }
 ];
  
